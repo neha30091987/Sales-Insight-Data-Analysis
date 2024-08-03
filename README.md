@@ -1,4 +1,4 @@
-# Sales-Insight-Data-Analysis using POWER BI and SQL#
+# Sales-Insight-Data-Analysis using POWER BI and SQL #
 
 **Problem Statement**
 
